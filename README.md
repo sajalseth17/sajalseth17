@@ -1,5 +1,24 @@
 # 💫 About Me:
-About Me<br>Hi, I'm Sajal Seth! I'm a passionate developer skilled in Python, JavaScript, and web development, thriving on solving challenges in backend development and open-source projects.<br>🔭 I’m currently working on: A full-stack e-commerce web app to sharpen my skills and contribute to the community.<br>🤝 I’m looking for help with: Optimizing database queries to boost my app’s performance.<br>🌱 I’m currently learning: Node.js to expand my backend expertise.<br>💬 Ask me about: Python scripting or RESTful APIs—I love sharing tips!<br>⚡ Fun fact: I built a chatbot in 24 hours during a hackathon!<br>When not coding, I’m reading sci-fi or hiking. Let’s connect and create something awesome!
+Hello Sajal, that's a great "About Me" for a general developer role!
+
+To change this for a Machine Learning (ML) role, I will focus the content on data, algorithms, ML tools, and specific ML project experience, per your saved preference, I will split the content based on line breaks (\n*) before finalizing the design.
+
+Here is the revised draft:
+
+🧠 About Me: Sajal Seth
+Hi, I'm Sajal Seth! I'm a passionate Machine Learning Developer skilled in Python, statistical modeling, and deep learning frameworks, thriving on turning raw data into predictive insights.
+
+🔭 I’m currently working on: Developing a time-series forecasting model using recurrent neural networks (RNNs) to improve supply chain predictions.
+
+🤝 I’m looking for help with: Model compression and optimization techniques to deploy large models efficiently in production.
+
+🌱 I’m currently learning: Reinforcement Learning (RL) for dynamic decision-making systems.
+
+💬 Ask me about: Data preprocessing, model evaluation metrics, or deploying models using Flask/FastAPI—I love sharing tips!
+
+⚡ Fun fact: I built a sentiment analysis engine in 24 hours during a hackathon that achieved 92% accuracy!
+
+When not coding, I'm reading sci-fi or exploring data visualizations. Let's connect and build the future with data!
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=timeGradient&text=Doing%20it%20Solo&TextBg=false&fontSize=60&section=header&fontColor=ffffff"/>
