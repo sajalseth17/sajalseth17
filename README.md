@@ -1,7 +1,4 @@
 # 💫 About Me:
-Hello Sajal, that's a great "About Me" for a general developer role!
-
-To change this for a Machine Learning (ML) role, I will focus the content on data, algorithms, ML tools, and specific ML project experience, per your saved preference, I will split the content based on line breaks (\n*) before finalizing the design.
 
 Hi, I'm Sajal Seth! I'm a passionate Machine Learning Developer skilled in Python, statistical modeling, and deep learning frameworks, thriving on turning raw data into predictive insights.
 
